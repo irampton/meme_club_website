@@ -1,0 +1,9 @@
+{
+  "name": "meme_club_website",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "nodemailer": "^4.6.6"
+  }
+}
