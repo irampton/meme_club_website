@@ -5,8 +5,22 @@ head{
 
 }
 
+.header{
+
+}
+
 h1{
 
+border-bottom:  6px;
+border-bottom-color: black;
+border-bottom-style: solid;
+background-color: white;
+	height: 150px;
+	width: 60%;
+text-align: center;
+padding: 1%;
+padding-top: 80px;
+margin-left: 20%;
 }
 
 body{
@@ -15,6 +29,22 @@ background: url('images//background.png') no-repeat center center fixed;
   -moz-background-size: cover;
   background-size: cover;
 }
+p{
+	
 
+}
+div{
+
+}
+#maintext{
+	border: 4px;
+background-color: white;
+	height: 2000px;
+	width: 60%;
+text-align: center;
+padding: 1%;
+padding-top: 80px;
+margin-left: 20%;
+}
 
 </style>
