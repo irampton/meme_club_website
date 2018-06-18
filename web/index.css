@@ -1,68 +1,44 @@
-<style>
-
-head{
-
-
-}
-
-.header{
-
-}
-
 .imgcontentlarge{
-border-bottom:  6px;
-border-bottom-color: black;
-border-bottom-style: solid;
-background-color: white;
+	border-bottom:  6px;
+	border-bottom-color: black;
+	border-bottom-style: solid;
+	background-color: white;
 	height: 350px;
 	width: 60%;
-text-align: center;
-
-
-
-margin-left: 20%;
+	text-align: center;
+	margin-left: 20%;
 
 }
 .imagecontentmed{
 	border-bottom:  6px;
-border-bottom-color: black;
-border-bottom-style: solid;
-background-color: white;
+	border-bottom-color: black;
+	border-bottom-style: solid;
+	background-color: white;
 	height: 200px;
 	width: 60%;
-text-align: center;
-
-margin-top: 1%;
-
-margin-left: 20%;
+	text-align: center;
+	margin-top: 1%;
+	margin-left: 20%;
 
 }
 h1{
-
-border-bottom:  6px;
-border-bottom-color: black;
-border-bottom-style: solid;
-background-color: white;
+	border-bottom:  6px;
+	border-bottom-color: black;
+	border-bottom-style: solid;
+	background-color: white;
 	height: 150px;
 	width: 60%;
-text-align: center;
-padding: 1%;
-padding-top: 80px;
-margin-left: 20%;
+	text-align: center;
+	padding: 1%;
+	padding-top: 80px;
+	margin-left: 20%;
 }
 
 body{
-background: url('images//background.png') no-repeat center center fixed;
- -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-}
-p{
-	
-
-}
-div{
-
+	background: url('images/background.png') no-repeat center center fixed;
+ 	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+	background-size: cover;
 }
 #maintext{
 	border: 4px;
@@ -74,5 +50,3 @@ padding: 1%;
 padding-top: 80px;
 margin-left: 20%;
 }
-
-</style>
